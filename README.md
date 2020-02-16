@@ -1,13 +1,15 @@
 # Github-Profile-Viewer
-## This Repo contains my Software Engineering Project which was inspired by an Software Developer I have seen like 2 - 3 months ago. Hope you will like it
+#### This Repo contains my Software Engineering Project which was inspired by an Software Developer I have seen like 2 - 3 months ago. Hope you will like it
+
+![picture alt](https://github.com/sauravgajbhiye/Github-Profile-Viewer/blob/master/static/Github%20Profile%20Viewer.png)
 
 Built with:
 
-* Bullet List Next.js
-* Bullet List GitHub 
-* Bullet List Polyglot
-* Bullet List Chart.js
-* Bullet List React JS
+* Next.js
+* GitHub 
+* Polyglot
+* Chart.js
+* React JS
 
 ### Install dependencies
 `yarn`
