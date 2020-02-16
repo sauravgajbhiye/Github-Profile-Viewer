@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "alias": "Github Profile Viewer",
+  "name": "Github Profile Viewer",
+  "builds": [{ "src": "package.json", "use": "@now/next" }]
+}
