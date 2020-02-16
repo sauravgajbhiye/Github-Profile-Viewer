@@ -5164,7 +5164,7 @@ export default [
     ssh_url: 'git@github.com:sauravgajbhiye/WebDevSpring2016.git',
     clone_url: 'https://github.com/sauravgajbhiye/WebDevSpring2016.git',
     svn_url: 'https://github.com/sauravgajbhiye/WebDevSpring2016',
-    homepage: 'http://webdevspring2016-chiangbrittany.rhcloud.com/',
+    homepage: 'http://webdevspring2016-sauravgajbhiye.rhcloud.com/',
     size: 6986,
     stargazers_count: 0,
     watchers_count: 0,
